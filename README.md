@@ -41,7 +41,7 @@ Course:
 1. Clone the repository.
 2. The repository contains an empty VS Solution and an SQlite Database
 3. Make your changes
-4. Create a Pull Request when you are ready to Submit your code challenge
+4. Create a #Pull Request# when you are ready to Submit your code challenge
 
 ## Expectations
 * Solution should compile
