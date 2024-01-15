@@ -2,10 +2,46 @@
 Code Challenge for .NET Candidates
 
 ## Introduction
+The challenge is expected to include the following technologies:
+* C#
+* EFCore
 
-## Startup Instructions
+You can use a UI of your choice. Some suggestions are:
+* MVC Core
+* Blazor
+* React
+* Command line
+
+## Description
+We would like you to create a simple enrolment application.
+The application should have Users, Enrolments and Courses.
+
+User:
+* First Name - required
+* Last Name - required
+* Date of Birth - required
+
+Enrolment:
+* Start Date - required
+* End Date
+* Course - required
+* User - required
+
+Course:
+* Name - required
+* Description
+
+### Acceptance Critera
+1. Create a User
+2. Add a Course
+3. Enrol a user into a Course
+4. View a list of Enrolments
+
+## Instructions
 1. Clone the repository.
-2. Build and Run the Solution.
+2. The repository contains an empty VS Solution and an SQlite Database
+3. Make your changes
+4. Create a Pull Request when you are ready to Submit your code challenge
 
 ## Expectations
 * Solution should compile
@@ -15,6 +51,3 @@ Code Challenge for .NET Candidates
   
 ## How to get help
 Please raise an Issue with any questions that you have.
-
-## Time estimate 
-The task should take approximately 2 hours
