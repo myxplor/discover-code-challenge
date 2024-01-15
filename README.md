@@ -14,22 +14,22 @@ You can use a UI of your choice. Some suggestions are:
 
 ## Description
 We would like you to create a simple enrolment application.
-The application should have Users, Enrolments and Courses.
+The application should have Users, Enrolments and Courses with the fields outlines below. Fields marked with '- required' need to have a value. Fields marked with '- optional' can be empty or null
 
-User:
+### User:
 * First Name - required
 * Last Name - required
 * Date of Birth - required
 
-Enrolment:
+### Enrolment:
 * Start Date - required
-* End Date
+* End Date - optional
 * Course - required
 * User - required
 
-Course:
+### Course:
 * Name - required
-* Description
+* Description - optional
 
 ### Acceptance Critera
 1. Create a User
@@ -40,12 +40,13 @@ Course:
 ## Instructions
 1. Clone the repository.
 2. The repository contains an empty VS Solution and an SQlite Database
-3. Make your changes
-4. Create a Pull Request when you are ready to Submit your code challenge
+4. Make your changes
+5. Create a Pull Request when you are ready to Submit your code challenge
 
 ## Expectations
 * Solution should compile
 * All Acceptance Criteria should be met
+* All tables should be created in the provided SQLite database
 * Code should be clean and easy to read. Use comments where necessary.
 * Design should reflect current industry best practices
   
