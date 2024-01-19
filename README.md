@@ -19,7 +19,7 @@ The application should have Users, Enrolments and Courses with the fields outlin
 ### User:
 * First Name - required
 * Last Name - required
-* Date of Birth - required
+* Date of Birth - required  change
 
 ### Enrolment:
 * Start Date - required
