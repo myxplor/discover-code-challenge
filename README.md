@@ -38,10 +38,9 @@ The application should have Users, Enrolments and Courses with the fields outlin
 4. View a list of Enrolments
 
 ## Instructions
-1. Clone the repository.
+1. Create your own repository and when you are ready to Submit your code challenge, send us the link to your repo
 2. The repository contains an empty VS Solution and an SQlite Database
 4. Make your changes
-5. Create a Pull Request when you are ready to Submit your code challenge
 
 ## Expectations
 * Solution should compile
