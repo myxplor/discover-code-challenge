@@ -10,7 +10,6 @@ You can use a UI of your choice. Some suggestions are:
 * MVC Core
 * Blazor
 * React
-* Command line
 
 ## Description
 We would like you to create a simple enrolment application.
