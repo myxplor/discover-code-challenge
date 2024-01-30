@@ -5,15 +5,12 @@ Code Challenge for .NET Candidates
 The challenge is expected to include the following technologies:
 * C#
 * EFCore
-
-You can use a UI of your choice. Some suggestions are:
-* MVC Core
-* Blazor
-* React
+* Blazor or React
+* Clean or Onion Architecture
 
 ## Description
 We would like you to create a simple enrolment application.
-The application should have Users, Enrolments and Courses with the fields outlines below. Fields marked with '- required' need to have a value. Fields marked with '- optional' can be empty or null
+The application should have Users, Enrolments and Courses with the fields outlined below. Fields marked with '- required' need to have a value. Fields marked with '- optional' can be empty or null
 
 ### User:
 * First Name - required
@@ -37,9 +34,9 @@ The application should have Users, Enrolments and Courses with the fields outlin
 4. View a list of Enrolments
 
 ## Instructions
-1. Create your own repository and when you are ready to Submit your code challenge, send us the link to your repo
-2. The repository contains an empty VS Solution and an SQlite Database
-4. Make your changes
+1. This repository contains an empty VS Solution and an SQlite Database
+2. Make your changes, keeping in mind the expected technologies and the expectations listed below
+3. Create your own repository and when you are ready to Submit your code challenge, send us the link to your repo
 
 ## Expectations
 * Solution should compile
